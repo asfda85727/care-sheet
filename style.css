@@ -1,0 +1,28 @@
+  h1{
+    font-size: 55px;
+    text-align: center;
+    margin:5px;
+  }
+  h2{
+    font-size: 35px;
+    text-align: center;
+    margin:5px;
+    padding:0;
+  }
+  div{
+    text-align: center;
+    border-bottom:3px solid black;
+    padding-bottom: 20px;
+  }
+  .saw{
+    font-size: 20px;
+    text-align: center;
+  }
+  a{
+    color:blue;
+    text-decoration: none;
+  }
+  p{
+    text-align: center;
+  }
+}
